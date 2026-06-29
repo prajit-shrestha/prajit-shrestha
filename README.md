@@ -21,12 +21,6 @@
 
 ---
 
-### GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prajit-shrestha&show_icons=true&theme=tokyonight" />
-</p>
-
----
 
 ### Most Used Languages
 <p align="center">
@@ -36,10 +30,10 @@
 ---
 
 ### 📫 Connect with Me
-- 📧 Email: your-email@example.com  
-- 💼 LinkedIn: https://linkedin.com/in/your-profile  
+- 📧 Email: prajitshrestha.1920@gmail.com  
+- 💼 LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/prajit-shrestha-745b91301/)  
 - 🐙 GitHub: https://github.com/prajit-shrestha  
 
 ---
 
-⭐ *“Keep learning, keep testing, keep improving.”*
+*“Keep learning, keep testing, keep improving.”*
