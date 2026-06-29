@@ -31,7 +31,7 @@
 
 ### 📫 Connect with Me
 - 📧 Email: prajitshrestha.1920@gmail.com  
-- 💼 LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/prajit-shrestha-745b91301/)  
+- 💼 LinkedIn:[https://www.linkedin.com/in/prajit-shrestha-745b91301/]  
 - 🐙 GitHub: https://github.com/prajit-shrestha  
 
 ---
